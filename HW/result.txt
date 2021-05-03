@@ -1,0 +1,33 @@
+C:\CSC201\HW>java TicTacToe.java
+Please enter a board to start with
+.........
+. . .
+. . .
+. . .
+Let's get started!
+Enter the move you would like to make by re-entering the board
+X........
+X . .
+. . .
+. . .
+Computer Moves
+X O .
+. . .
+. . .
+Enter the move you would like to make by re-entering the board
+XO.X.....
+X O .
+X . .
+. . .
+Computer Moves
+X O O
+X . .
+. . .
+Enter the move you would like to make by re-entering the board
+XOOX..X..
+X O O
+X . .
+X . .
+Player Wins
+
+C:\CSC201\HW>
